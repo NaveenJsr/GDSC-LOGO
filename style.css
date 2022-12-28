@@ -1,0 +1,105 @@
+* {
+  margin: 20% 30%;
+  background: white;
+  position: fixed;
+  border: 0 solid;
+}
+
+r {
+  border-width: 100 30;
+  border-radius: 50px;
+  border-color: #ec4235;
+  left: 60;
+  top: 10;
+  transform: rotate(60deg);
+}
+
+s {
+  border-width: 100 30;
+  border-radius: 50px;
+  border-color: #4187f6;
+  left: 60;
+  top: 80;
+  transform: rotate(-60deg);
+}
+
+t {
+  border-width: 100 30;
+  border-radius: 50px;
+  border-color: #109d59;
+  transform: rotate(-60deg);
+  left: 300;
+  top: 10;
+}
+
+u {
+  border-width: 100 30;
+  border-radius: 50px;
+  border-color: #f8bc04;
+  transform: rotate(-120deg);
+  left: 300;
+  top: 80;
+}
+
+.G {
+  font-size: 30px;
+  color: #a3080b;
+  left: 120;
+  top: 260;
+}
+
+.D {
+  font-size: 30px;
+  color: #9698e4;
+  left: 142;
+  top: 260;
+}
+
+.S {
+  font-size: 30px;
+  color: #94f1d8;
+  left: 165;
+  top: 260;
+}
+
+.C {
+  font-size: 30px;
+  color: #f4d64f;
+  left: 183;
+  top: 260;
+}
+
+.cc {
+  font-size: 30px;
+  color: #a3080b;
+  left: 210;
+  top: 260;
+}
+
+.V {
+  font-size: 30px;
+  color: #9698e4;
+  left: 230;
+  top: 260;
+}
+
+.R {
+  font-size: 30px;
+  color: #94f1d8;
+  left: 252;
+  top: 260;
+}
+
+.gg {
+  font-size: 30px;
+  color: #f4d64f;
+  left: 272;
+  top: 260;
+}
+
+.U {
+  font-size: 30px;
+  color: #19327b;
+  left: 295;
+  top: 260;
+}
