@@ -5,4 +5,4 @@ YEAR "3RD"
 
 ## SCREENSHORT
 
-<img src="https://github.com/NaveenJsr/GDSC-LOGO/blob/main/Screenshot%20(43).png?raw=true" height="300px" width="auto">
+<img src="https://github.com/NaveenJsr/GDSC-LOGO/blob/main/Screenshot%20(44).png?raw=true" height="300px" width="auto">
